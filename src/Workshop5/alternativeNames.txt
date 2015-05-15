@@ -1,0 +1,7 @@
+
+My chosen renaming scheme
+
+JavaFXApplication : ClassMain
+JavaFXDialogBox : Display
+JavaFXDialogBoxChild : WheatherDisplay
+JavaFXDialogBoxRoot : DataCenterDisplay

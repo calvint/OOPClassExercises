@@ -1,0 +1,51 @@
+Use Cases for midterm coffee shop software. 
+
+Case 1: Order Usage
+
+1. The order taker wants to place an order for the customer that is requesting one.
+2. The order taker adds a drink by clicking on the drink button of the drink of the customer's choice.
+2a. Optionally, the order taker adds condiments by pressing the button according to the customer's choice.
+2b. Optionally, the cancel last condiment or cancel beverage button if the customer changes their mind and proceeds back to step 2.
+3. The drink is added to the order by pressing the add drink button.
+3a. Optionally, other drinks are added to the order by going to step 2.
+3b. Optionally, the cancel order button is pressed if the customer wishes to cancel the order.
+4. The order taker presses the finish order and pay button when the customer indicates that their order is complete. 
+
+Case 2: Cashier Usage
+
+1. The cashier wants to complete the transaction with the customer that has just popped up in the cashier queue.
+1b. Optionally, if the customer changes their mind and does not want the order then the cancel button is pressed.
+2. The cashier takes the customer's money, gives them change if they need it
+3. The cashier presses the paid button. 
+
+Case 3: Beverage Pourer
+
+1. The beverage pourer wants to pour an order that has popped up on his screen.
+2. The beverage pourer pours each of the drinks listed on the screen
+2a. If the order dissapears from the screen then the order is discarded.
+3. The beverage pourer gives the order to the condiment pourer.
+4. the beverage pourer presses the processed button. 
+
+Case 4: Condiment Pourer
+
+1. The condiment pourer wants to add condiments to an order that popped up on their screen. 
+2. The condiment pourer adds condiments to each of the beverages as described on the screen.
+2a. If the order dissapears from the screen then the order is discarded.
+3. The condiment pourer gives the finished order to the order pickup guy...
+4. The condiment pourer presses the processed button on the screen for that order. 
+
+Case 5: Order Pickup Guy...
+
+1. The order pickup guy wants to hand out an order to a customer that just popped up on their screen. 
+1a. If the order disappears from the screen then the order is discarded. 
+2. The order pickup guy locates the customer. 
+3. The order pickup guy gives the order to the customer. 
+4. The order pickup guy presses the processed button on the screen for that order. 
+
+Case 6: The Customer
+
+1. The customer wants to make an order.
+2. The customer approaches the order taker and gives em' their order.
+3. The customer approaches the cashier taker and pays for the order.
+4. The customer approaches the order pickup guy and takes their order.
+5. the customer enjoys satisfying coffee.  

@@ -1,2 +1,2 @@
 # OOPClassExercises
-My submissions to the homework assignments in an object oriented programming course.
+My submissions to the homework assignments in an object oriented design course.

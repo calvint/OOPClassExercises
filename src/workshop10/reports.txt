@@ -1,0 +1,10 @@
+1 0 Manager  Jenny Best
+2 1 Manager  Jeff Great
+3 2 Worker   Cathy Perfect
+4 2 Manager  Peter Ok
+5 1 Worker   Carl Secretary
+6 1 Manager  Cindy Prefect
+7 4 Worker   John Sleepy
+8 6 Worker   Katherine The Great
+9 2 Worker   Ivan The Terrible
+10 6 Worker  Peter So So
